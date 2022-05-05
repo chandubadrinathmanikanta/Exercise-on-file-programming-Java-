@@ -1,0 +1,15 @@
+1.	Write a program that counts the number of times a particular character, appears in a file. 
+	The character can be read from the user through keyboard. You can use srm.txt as the input file.
+
+
+2.	Write a Java program to read a file content (srm.txt) line by line.
+
+
+3.	Write a Java program to append text the following text to an existing file (srm.txt)
+	Text to be appended Embark on the avenues of excellence with SRM University-AP! 
+	Believing in the power of education to transform lives, our interdisciplinary 
+	research-oriented undergraduate, postgraduate, and doctoral programmes ensure global exposure and entrepreneurial experience to our students.
+ 	We are a thriving intellectual community prepared for a dynamic world.
+
+
+4.	Write a Java program to find the longest word in a text file (srm.txt)
